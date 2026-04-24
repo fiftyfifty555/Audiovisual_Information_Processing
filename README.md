@@ -17,7 +17,6 @@ Separate report notebooks and additional datasets are also included in the repos
 ### Laboratory Reports
 
 - [`CV_lab1_report.ipynb`](CV_lab1_report.ipynb) — Lab 1 report
-- [`CV_lab1_report.md`](CV_lab1_report.md) — Lab 1 report in Markdown format
 - [`CV_lab2_reportv2.ipynb`](CV_lab2_reportv2.ipynb) — Lab 2 report
 - [`CV_lab3_report.ipynb`](CV_lab3_report.ipynb) — Lab 3 report
 - [`CV_lab4_report.ipynb`](CV_lab4_report.ipynb) — Lab 4 report
@@ -56,7 +55,3 @@ Open the main notebook:
 [`labs.ipynb`](labs.ipynb)
 
 or open any separate laboratory report from the list above.
-
-For Markdown-based viewing, use:
-
-[`CV_lab1_report.md`](CV_lab1_report.md)
