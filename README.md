@@ -32,7 +32,7 @@ Separate report notebooks and additional datasets are also included in the repos
 
 - [`energy_peaks_before.csv`](energy_peaks_before.csv) — source data before processing
 - [`energy_peaks_after.csv`](energy_peaks_after.csv) — processed data after peak detection
-- [`profiles.rar`](profiles.rar) — additional data archive
+- [`profiles.rar`](profiles.rar) — resulting profiles for every letter of russian alphabet 
 
 ## Description
 
